@@ -7,8 +7,8 @@
     <ProjectGuid>{6A02460B-BBA4-44CC-9164-5C43ED0A999A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DemoCode</RootNamespace>
-    <AssemblyName>DemoCode</AssemblyName>
+    <RootNamespace>EventAndDelegate</RootNamespace>
+    <AssemblyName>EventAndDelegate</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
